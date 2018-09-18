@@ -1,0 +1,1 @@
+gcc -o bpc bpc.c -L/usr/local/lib -lwiringPi -I/usr/local/include
